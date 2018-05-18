@@ -19,6 +19,6 @@
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 		</assets>
-		<news>Updated the addon to use new addon.xml metadata</news>
+		<news>Beautiful design</news>
 	</extension>
 </addon>
